@@ -9,15 +9,21 @@ https://morphe.software/add-source?github=siddharthagautam/gautam-patches
 ## Available patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/siddharthagautam/gautam-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 QR Scanner&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-### QR Scanner
+**🎯 Supported versions:**
 
-- **Hide banner ads** — collapses the AdMob banner areas on the home and scan-result screens.
-- Package: `github.w3apps.com.qrcode`
-- Supported version: `1.0`
-- Test target: [Sanjnha/Qr-Code-Scanner-Genrator-Android-App-with-Admob](https://github.com/Sanjnha/Qr-Code-Scanner-Genrator-Android-App-with-Admob)
+| 1.0 |
+| :---: |
 
-The first patch is under development on the `dev` branch and should be treated as unverified until it has been built and tested on a device.
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Hide banner ads](#hide-banner-ads) | Hides and collapses banner ads on the home and scan-result screens. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
