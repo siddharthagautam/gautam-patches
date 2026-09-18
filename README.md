@@ -8,6 +8,8 @@ https://morphe.software/add-source?github=siddharthagautam/gautam-patches
 
 ## Available patches
 
+<!-- PATCHES_START EXPANDED -->
+
 ### QR Scanner
 
 - **Hide banner ads** — collapses the AdMob banner areas on the home and scan-result screens.
@@ -16,6 +18,8 @@ https://morphe.software/add-source?github=siddharthagautam/gautam-patches
 - Test target: [Sanjnha/Qr-Code-Scanner-Genrator-Android-App-with-Admob](https://github.com/Sanjnha/Qr-Code-Scanner-Genrator-Android-App-with-Admob)
 
 The first patch is under development on the `dev` branch and should be treated as unverified until it has been built and tested on a device.
+
+<!-- PATCHES_END -->
 
 ## Building locally
 
